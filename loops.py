@@ -75,3 +75,5 @@ def perfect_score(student_info):
     if first_perfect_score is None or first_perfect_score == []:
         return []
     return first_perfect_score[0]
+
+print(15*4-90/5-2*(15-5))
